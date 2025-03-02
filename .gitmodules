@@ -1,0 +1,3 @@
+[submodule "Git-Sub"]
+	path = test
+	url = https://github.com/Foreys/Git-Sub.git
